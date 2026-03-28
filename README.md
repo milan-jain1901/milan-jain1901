@@ -10,22 +10,31 @@ This GitHub is where I share my learning journey, practice work, and future proj
 🧠 Interests
 
    Artificial Intelligence (AI)
+   
    Machine Learning (ML)
+   
    AI & Data Science
+   
    Computer Science Engineering
 
 🛠️ Currently Learning
 
    Python (Intermediate level)
+   
    Basics of Programming
+   
    HTML & CSS
+   
    Introduction to AI & ML
 
 🚀 Goals
 
    Build strong fundamentals in AI/ML and Data Science
+   
    Start building projects independently
+   
    Improve coding and problem-solving skills
+   
 
 <!--
 **milan-jain1901/milan-jain1901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
