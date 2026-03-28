@@ -13,7 +13,7 @@ This GitHub is where I share my learning journey, practice work, and future proj
    
    Machine Learning (ML)
    
-   AI & Data Science
+   Data Science
    
    Computer Science Engineering
 
