@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Milan, a 1st year engineering student and a beginner in the field of Computer Science.
+I'm Milan, an engineering student and a beginner in the field of Computer Science.
 
 I am currently exploring Artificial Intelligence, Machine Learning, and AI & Data Science. I’m in the learning phase and building my understanding step by step.
 
